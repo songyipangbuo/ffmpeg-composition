@@ -19,5 +19,5 @@ jobs:
         env: # 环境变量
           STAGE: dev #您的部署环境
           SERVERLESS_PLATFORM_VENDOR: tencent #serverless 境外默认为 aws，配置为腾讯
-          TENCENT_SECRET_ID: AKIDiGbt0vMJXZNwFKHk25sOdfWDpFRU7l59 #您的腾讯云账号 sercret ID
-          TENCENT_SECRET_KEY: 4RdjfOFvR63rU6RbVDkz2tdQ9fjcJp36 #您的腾讯云账号 sercret key
+          TENCENT_SECRET_ID: AKIDujRyY0LUSxIRPC6g9MacUWO6f3GH4oS6 #您的腾讯云账号 sercret ID
+          TENCENT_SECRET_KEY: b6XnpdRBk8IFxY8kwwhDeuyqiPsHXaaS #您的腾讯云账号 sercret key
